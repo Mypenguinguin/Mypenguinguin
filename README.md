@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mypenguinguin
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html and sql
+- 🌱 I’m currently learning C++ and sql
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me: 
 IG: blooblens
